@@ -18,8 +18,10 @@
 </div>
  
 <div>
+ 
   ![Snake animation](https://github.com/lucasGomes01/lucasGomes01/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+ </div>
  
  <div> 
  
